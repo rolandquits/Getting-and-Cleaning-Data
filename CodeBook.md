@@ -1,4 +1,4 @@
-DATA DICTIONARY - TIDY SET COURSE PROJECT  
+# DATA DICTIONARY - TIDY SET COURSE PROJECT  
   
 Subject 2  
   Subject ID  
@@ -276,3 +276,8 @@ fBodyBodyGyroJerkMag-mean()	20
 fBodyBodyGyroJerkMag-std()	20  
   Standard Deviation of Angular jerk velocity Magnitude in frequency domain signals  
 	-1.0000000000000000..1.000000000000000000  .frequency domain signals
+
+  
+You can always refer to the data source for more questions regarding the data here: 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
+  
