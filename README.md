@@ -4,8 +4,9 @@
 
 
 ##### This is the README for my run_analysis.R script. This README will go step by step and explain my scripts. Please make sure to install the “reshape2” package before running my run_analysis.R script.
-
-
+  
+You can always refer to the data source for more questions regarding the data here: 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
   
 ##### Let us begin:
 
