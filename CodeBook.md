@@ -1,4 +1,4 @@
-### DATA DICTIONARY - Getting-and-Cleaning-Data COURSE PROJECT  
+##### DATA DICTIONARY - COURSE PROJECT  
   
 Subject 2  
   Subject ID  
