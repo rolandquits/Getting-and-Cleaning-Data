@@ -1,5 +1,4 @@
 # Getting-and-Cleaning-Data
-=========================
 
 ###### Course project repository for Getting and Cleaning Data
 
