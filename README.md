@@ -4,9 +4,17 @@
 
 
 ##### This is the README for my run_analysis.R script. This README will go step by step and explain my scripts. Please make sure to install the “reshape2” package before running my run_analysis.R script.
-  
-You can always refer to the data source for more questions regarding the data here: 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
+
+The repository contains an R script titled "run_analysis.R" and CodeBook that identifies the data associated with the R script results.
+
+The R script manipulates data collected using accelerometers and gyroscope imbedded in the Samsung Galaxy S smartphone. A total of 30 participants preformed different activities while the smartphones were attached to their waist. The resulting metrics were recorded and can be found in the following source.
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+More details on the process can be found at the following link.
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
   
 ##### Let us begin:
 
